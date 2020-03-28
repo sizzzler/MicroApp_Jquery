@@ -3,27 +3,34 @@ span {
     cursor: pointer;
   }
 div {
-    margin: 20px;
-    width: 200px;
+    margin: 50px;
+    width: 50px;
     display: none;
     height: 100px;
     float: left;
 }
 
 #blackberry{
-  width:100%;
+  width:700%;
   size: 10%;
 }
 
 #Cherrie{
-  width:100%;
-  size:10%;
+  width:250%;
+
 }
 #Apple{
-  width:40%;
+  width:700%;
   size:10%;
 }
 body{
   background-color:   #6ce698;
 
+}
+img {
+    width:50%;
+}
+
+p {
+    float: down;
 }
